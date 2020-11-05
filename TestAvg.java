@@ -4,7 +4,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 
-public class TestCounter
+public class TestAvg
 {
   public static void main(String args[]) {
     TestCounter test = new TestCounter();
